@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [8.0.1](https://github.com/cloudevents/sdk-javascript/compare/v8.0.0...v8.0.1) (2023-12-05)
+
+
+### Miscellaneous
+
+* Update compatible node version ([#573](https://github.com/cloudevents/sdk-javascript/issues/573)) ([245bae9](https://github.com/cloudevents/sdk-javascript/commit/245bae92d1c84b4a44fe7aae2f82c5a90818f1c5))
+
 ## [8.0.0](https://github.com/cloudevents/sdk-javascript/compare/v7.0.2...v8.0.0) (2023-07-24)
 
 ### ⚠ BREAKING CHANGES
